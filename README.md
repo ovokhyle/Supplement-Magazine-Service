@@ -23,13 +23,13 @@
 ***
 
 <h1>Viewing Mode</h1>
-<img width="600" alt="image" src="https://github.com/ovokhyle/Supplement-Magazine-Service/assets/52202605/3e9b75f7-df57-4315-af86-1f73cee4407b">
+<img width="600" alt="image" src="https://github.com/ovokhyle/Supplement-Magazine-Service/assets/52202605/2d019c7a-34e1-41a9-bcfa-b4c1397f8877">
 
 <h1>Edit Mode</h1>
-<img width="600" alt="image" src="https://github.com/ovokhyle/Supplement-Magazine-Service/assets/52202605/d8958303-545d-4006-b0fc-a3a1b63afc94">
+<img width="600" alt="image" src="https://github.com/ovokhyle/Supplement-Magazine-Service/assets/52202605/974c5ee4-4cd1-4650-ac4b-79f348b9bbd6">
 
 <h1>Create Mode</h1>
-<img width="600" alt="image" src="https://github.com/ovokhyle/Supplement-Magazine-Service/assets/52202605/f3cf89f3-3b08-401d-b29a-bc1d7a214800">
+<img width="600" alt="image" src="https://github.com/ovokhyle/Supplement-Magazine-Service/assets/52202605/985876f0-21bd-4de1-bcf4-d9394c5d03db">
 
 
 
